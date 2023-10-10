@@ -47,7 +47,7 @@ I've authored an e-book called **"How to Make Money with ChatGPT: Strategies, Ti
 
 ---
 
-## Other Prompting Resources
+## Other Prompting Resources you can use
 
 ### Want to Learn How to write image prompts for Midjourney AI?
 
